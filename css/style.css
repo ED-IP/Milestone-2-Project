@@ -1,0 +1,11 @@
+.separator-small{
+    background-color: black;
+    width: 20%;
+    height: 20px;
+}
+
+.separator-large{
+    background-color: black;
+    width: 85%;
+    height: 20px;
+}
