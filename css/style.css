@@ -13,7 +13,11 @@
     text-align:center;
 }
 
-/*---------- Main Sections ------------*/
+h2{
+    padding: 15px;
+}
+
+/*---------- Main Section ------------*/
 
 #introduction{
     margin: auto;
@@ -25,26 +29,13 @@
     background-size: cover;
 }
 
+/*------------- Activities section ----------*/
 
-#gallery{
+#activities{
+    background-color: rgb(192, 220, 245);
     margin: auto;
     width: 1200px;
-}
-
-.separator{
-    border-radius: 1px;
-    background-color: black;
-    width: 60%;
-    height: 3px;
-    margin: auto;
-}
-
-.text-box{
-    border-radius: 2px;
-    margin: auto;
-    background-color: rgba(238, 255, 0, 0.5);
-    text-align:center;
-    width: 80%;
+    padding: 15px 2px 2px 2px;
 }
 
 .img-col{
@@ -61,7 +52,6 @@
     height: auto;
     width: 90%;
     margin: auto;
-    background-color: rgba(240, 248, 255, 0.301);
     position: relative;
 }
 
@@ -84,3 +74,22 @@
 .img-col-5{
     background-image: url("/images/coffe.jpg");
 }
+
+/*------------Miscelaneous elements -------------*/
+
+.separator{
+    border-radius: 1px;
+    background-color: black;
+    width: 60%;
+    height: 3px;
+    margin: auto;
+}
+
+.text-box{
+    border-radius: 2px;
+    margin: auto;
+    background-color: rgba(238, 255, 0, 0.5);
+    text-align:center;
+    width: 80%;
+}
+
