@@ -1,25 +1,27 @@
 #introduction{
-    
-}
-
-.separator-small{
-    z-index: 5;
     background-color: red;
-    width: 20%;
-    height: 100px;
-    padding: 0;
-    margin: 0;
 }
 
-.separator-large{
-    z-index: 5;
+.headers-center{
+    text-align:center;
+}
+
+.separator{
+    border-radius: 1px;
     background-color: black;
-    width: 85%;
-    height: 100px;
-    padding: 0;
-    margin: 0;
+    width: 60%;
+    height: 3px;
+    margin: auto;
 }
 
 .main_header{
-    padding-bottom: 10px;
+    padding: 10px 10px;
+}
+
+.text-box{
+    border-radius: 2px;
+    margin: auto;
+    background-color: rgba(238, 255, 0, 0.5);
+    text-align:center;
+    width: 80%;
 }
