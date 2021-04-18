@@ -1,15 +1,25 @@
+/*----------- Fonts ----------*/
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
 
-#introduction{
-    background-color: red;
-    background-image: url("/images/Introduction-BG.jpg");
-    background-position: right 80% bottom 45%;
-    background-repeat: no-repeat;
-    background-size: cover;
+/*----------- Headers section ----------*/
+
+.main_header{
+    color: white;
+    padding: 100px 0px 10px;
 }
 
 .headers-center{
     text-align:center;
+}
+
+#introduction{
+    height: 500px;
+    background-color: red;
+    background-image: url("/images/Introduction-BG.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 .separator{
@@ -20,10 +30,6 @@
     margin: auto;
 }
 
-.main_header{
-    padding: 100px 0px 10px;
-}
-
 .text-box{
     border-radius: 2px;
     margin: auto;
@@ -32,32 +38,32 @@
     width: 80%;
 }
 
-.img-col-1{
-    background-image: url("/images/boats.jpg");
+.img-col{
+    padding: 0;
+    height: 500px;
+    width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    background-origin: content-box;
+    background-position: center;
+}
+
+.img-col-1{
+    background-image: url("/images/boats.jpg");
 }
 
 .img-col-2{
     background-image: url("/images/food.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .img-col-3{
     background-image: url("/images/people.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .img-col-4{
     background-image: url("/images/Train.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .img-col-5{
-    background-image: url("/images/boats.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url("/images/coffe.jpg");
 }
