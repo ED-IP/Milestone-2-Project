@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+
 #introduction{
     background-color: red;
     background-image: url("/images/Introduction-BG.jpg");
+    background-position: right 80% bottom 45%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .headers-center{
@@ -16,7 +21,7 @@
 }
 
 .main_header{
-    padding: 10px 10px;
+    padding: 100px 0px 10px;
 }
 
 .text-box{
@@ -25,4 +30,34 @@
     background-color: rgba(238, 255, 0, 0.5);
     text-align:center;
     width: 80%;
+}
+
+.img-col-1{
+    background-image: url("/images/boats.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-col-2{
+    background-image: url("/images/food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-col-3{
+    background-image: url("/images/people.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-col-4{
+    background-image: url("/images/Train.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-col-5{
+    background-image: url("/images/boats.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
