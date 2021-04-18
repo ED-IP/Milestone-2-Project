@@ -5,7 +5,7 @@
 /*----------- Headers section ----------*/
 
 .main_header{
-    color: white;
+    color: rgb(72, 214, 37);
     padding: 100px 0px 10px;
 }
 
@@ -13,13 +13,22 @@
     text-align:center;
 }
 
+/*---------- Main Sections ------------*/
+
 #introduction{
+    margin: auto;
+    width: 1200px;
     height: 500px;
-    background-color: red;
     background-image: url("/images/Introduction-BG.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
+}
+
+
+#gallery{
+    margin: auto;
+    width: 1200px;
 }
 
 .separator{
@@ -46,6 +55,14 @@
     background-size: cover;
     background-origin: content-box;
     background-position: center;
+}
+
+.img-col-text{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    background-color: rgba(240, 248, 255, 0.301);
+    position: relative;
 }
 
 .img-col-1{
