@@ -2,6 +2,16 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
 
+body{
+    margin: auto;
+    max-width: 1200px;
+}
+
+nav {
+    margin: auto;
+    max-width: 1200px;
+}
+
 /*----------- Headers section ----------*/
 
 .main_header{
@@ -21,7 +31,7 @@ h2{
 
 #introduction{
     margin: auto;
-    width: 1200px;
+    max-width: 1200px;
     height: 500px;
     background-image: url("/images/Introduction-BG.jpg");
     background-position: center;
@@ -34,7 +44,7 @@ h2{
 #activities{
     background-color: rgb(192, 220, 245);
     margin: auto;
-    width: 1200px;
+    max-width: 1200px;
     padding: 15px 2px 2px 2px;
 }
 
@@ -74,6 +84,18 @@ h2{
 .img-col-5{
     background-image: url("/images/coffe.jpg");
 }
+
+/*------------contact section ---------*/
+
+.contact-form{
+    padding-top: 20px;
+    margin: auto;
+    border-radius: 10px;
+    max-width: 700px;
+    background-color: green;
+}
+
+
 
 /*------------Miscelaneous elements -------------*/
 
