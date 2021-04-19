@@ -1,6 +1,7 @@
 /*----------- Fonts ----------*/
 
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+
 
 body{
     background-color: rgb(250, 247, 255);
@@ -16,7 +17,9 @@ nav {
 /*----------- Headers section ----------*/
 
 .main_header{
-    color: rgb(72, 214, 37);
+    font-size: 50px;
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(255, 255, 255);
     padding: 100px 0px 10px;
 }
 
@@ -103,7 +106,7 @@ h2{
     margin: auto;
     border-radius: 10px;
     max-width: 700px;
-    background-color: green;
+    background-color: rgba(0, 128, 0, 0.212);
 }
 
 
