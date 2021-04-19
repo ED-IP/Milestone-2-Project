@@ -1,5 +1,5 @@
 function sendEmail(requestForm) {
-    emailjs.send(service_yavk8t6, template_3d8n1ip, {
+    emailjs.send("service_yavk8t6", "template_3d8n1ip", {
             "from_name": requestForm.name.value,
             "lastname": requestForm.last - name.value,
             "from_email": requestForm.email.value,
@@ -7,11 +7,11 @@ function sendEmail(requestForm) {
         })
         .then(
             function (response) {
-                console.log(SUCCESS, response);
+                console.log("SUCCESS", response);
             },
 
             function (error) {
-                console.log(FAILED, error);
+                console.log("FAILED", error);
             });
     return false;
 }
