@@ -12,7 +12,6 @@
     <script type="text/javascript">
         (function () {
             emailjs.init("user_OLk35SG3tcLOuLcQ0YG0d");
-            emailjs.send(service_yavk8t6, template_3d8n1ip);
         })();
     </script>
     <title>Tourism</title>
@@ -146,7 +145,7 @@
         <div class="row">
             <div class="col">
                 <div class="contact-form">
-                    <form action="#" method="POST">
+                    <form onsubmit="return sendEmail(this);" method="POST">
                         <div class="form-row justify-content-center">
                             <div class="form-group col-md-4 justify-content-center">
                                 <label for="name">Name</label>
@@ -168,9 +167,8 @@
                         </div>
                         <div class="form-row justify-content-center">
                             <div class="form-group col-md-8">
-                                <label for="comment">Do you have any question or comments? Please, share them with
-                                    us</label>
-                                <textarea class="form-control col-md-12" name="comment" id="comment"
+                                <label for="information">Please, write your question/request in this field.</label>
+                                <textarea class="form-control col-md-12" name="information" id="information"
                                     rows="8"> </textarea>
                             </div>
                         </div>
@@ -201,7 +199,7 @@
 
         </div>
     </footer>
-
+    <script src="/js/emailJS.js"></script>
 </body>
 
 </html>
