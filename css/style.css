@@ -48,6 +48,16 @@ h2{
     padding: 15px 2px 2px 2px;
 }
 
+.icons{
+    font-size: 35px;
+    padding-top: 12px;
+    margin: auto;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+    border: 2px solid;
+}
+
 .img-col{
     padding: 0;
     height: 500px;
@@ -59,6 +69,7 @@ h2{
 }
 
 .img-col-text{
+    padding-top: 10px;
     height: auto;
     width: 90%;
     margin: auto;
