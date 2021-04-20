@@ -1,6 +1,6 @@
 /*----------- Fonts ----------*/
 
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Source+Sans+Pro:ital,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Permanent+Marker&family=Varela+Round&display=swap');
 
 
 body{
@@ -28,6 +28,7 @@ nav {
 }
 
 h2{
+    font-family: 'Fira Sans', sans-serif;
     padding: 15px;
 }
 
@@ -51,6 +52,12 @@ h2{
     padding: 15px 2px 2px 2px;
 }
 
+.img-col-text > h5{
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding-bottom: 5px;
+}
+
 .icons{
     font-size: 35px;
     padding-top: 12px;
@@ -72,6 +79,7 @@ h2{
 }
 
 .img-col-text{
+    font-family: 'Varela Round', sans-serif;
     padding-top: 10px;
     height: auto;
     width: 90%;
@@ -131,10 +139,10 @@ footer{
 .text-box{
     border-radius: 2px;
     margin: auto;
-    background-color: rgba(238, 255, 0, 0.5);
-    text-align:center;
     width: 80%;
 }
+
+/*--------------------- https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_center-vertical2_btn -------------*/
 
 .button_container{
     margin-bottom: 20px;
