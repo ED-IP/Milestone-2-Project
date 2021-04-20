@@ -104,12 +104,20 @@ h2{
 .contact-form{
     padding-top: 20px;
     margin: auto;
+    margin-bottom: 20px;
     border-radius: 10px;
     max-width: 700px;
     background-color: rgba(0, 128, 0, 0.212);
 }
 
+/*------------ footer section --------------*/
 
+footer{
+    margin: auto;
+    background-color: aqua;
+    height: 30px;
+    max-width: 1200px;
+}
 
 /*------------Miscelaneous elements -------------*/
 
