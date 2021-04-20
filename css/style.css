@@ -135,3 +135,17 @@ footer{
     text-align:center;
     width: 80%;
 }
+
+.button_container{
+    margin-bottom: 20px;
+    height: 70px;
+    position: relative;    
+}
+
+.center-button{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: (50%, 50%);
+}
