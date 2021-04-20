@@ -114,7 +114,6 @@ h2{
 /*------------Miscelaneous elements -------------*/
 
 .separator{
-    border-radius: 1px;
     background-color: black;
     width: 60%;
     height: 3px;
