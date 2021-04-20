@@ -122,8 +122,8 @@ h2{
 
 footer{
     margin: auto;
-    background-color: aqua;
-    height: 30px;
+    background-color: rgb(199, 199, 199);
+    height: 32px;
     max-width: 1200px;
 }
 
