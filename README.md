@@ -41,7 +41,7 @@
 
 ## Testing
 
-1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/) and [Markup Validation Service](https://validator.w3.org/).
+1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Markup Validation Service](https://validator.w3.org/) and [JSHint](https://jshint.com/).
    Any error found during testing has been addressed, following tests mark the code as okay.
   
 2. During development the site has been checked in a regular basis with the developer tools of the browser to ensure that it worked as intended in desktop and mobile environments.
@@ -65,13 +65,17 @@
 ### Bugs
 
 - The navigation bar is not functional when used with small screen sizes.
-- Images on the "What to do section" scales from the top left corner rather than the center of  the image.
+- Images on the "What to do section" scales from the top left corner rather than the center of the image.
 - When the site is visualized on small screen devices the elements on the "What to do section" doesn't align correctly.
 
 
 ## Deployment
 
-To deploy the project I have used GitHub Pages. The version in use is the master branch.
+To deploy the project I have used GitHub Pages. 
+To deploy the project from the page for the repository: 
+  1. Click on the settings tab.
+  2. Go to the "Pages" section.
+  3. On the Sources section, select the Master branch.
 
 The address for the deployed project is: https://ed-ip.github.io/Milestone-2-Project/
 
