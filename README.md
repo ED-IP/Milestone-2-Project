@@ -10,6 +10,7 @@
 
 ### Future Features
 - Modal window that would appear clicking on every column of the "What to do" section with extended information.
+- Notification for the Information form to indicate if the message was sent succesfuly or not.
 
 ## Typography and Color Scheme
 
@@ -52,6 +53,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
  - Make the contact form modal and that it refresh when one is sent
  - Replace the "Lorem" text with the definitive one
  - Center the button to close the Privacy page
+ - The Request information form doesn't scale correctly on small screen sizes
 
 ## Testing
 
@@ -67,8 +69,8 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 5. Navigation bar:
 	1. Desktop version, try to click in any option to verify that the page scrolls to the right section.
 	2. Mobile version, verify that the navigation bar options gets collapsed when the size of the screen is reduced.
-	3. Mobile version, verify that the menu options had the same behaviour that in desktop mode.
-	4. Mobile version, verify that the menu open/close correctly when is push.
+	3. Mobile version, verify that the menu options had the same behaviour that in desktop mode (Not working).
+	4. Mobile version, verify that the menu open/close correctly when is push (Not working).
 
 6. Contact form:
 	1. Test: Not filling one or more of the required shows an error message asking the user to fill the field.
@@ -95,6 +97,10 @@ The address for the deployed project is: https://ed-ip.github.io/Milestone-2-Pro
 
 
 ## Credits
+
+### HTML
+
+ - The code used to try to center the close window button on the privacy page was taken from [W3schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_center-vertical2_btn)
 
 ### Javascript
 
