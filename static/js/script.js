@@ -16,7 +16,7 @@ $(".img-col").hover(function () {
         $(this).css("width", "100%").css("height", "500px");
     });
 
-// Code to open/close the Privacy policy window, found it here https://stackoverflow.com/a/24659694
+
 
 function openWin() {
     myWindow = window.open("privacy_policy.html", "_blank", "width=500, height=800");

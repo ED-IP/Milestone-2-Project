@@ -97,15 +97,15 @@ h2{
 }
 
 .img-col-3{
-    background-image: url(../images/people.jpg);
+    background-image: url("../images/people.jpg");
 }
 
 .img-col-4{
-    background-image: url(../images/Train.jpg);
+    background-image: url("../images/Train.jpg");
 }
 
 .img-col-5{
-    background-image: url(../images/coffe.jpg);
+    background-image: url("../images/coffe.jpg");
 }
 
 /*------------contact section ---------*/
