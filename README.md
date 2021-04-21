@@ -54,7 +54,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
  - Replace the "Lorem" text with the definitive one
  - Center the button to close the Privacy page
  - The Request information form doesn't scale correctly on small screen sizes
-
+ 
 ## Testing
 
 1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Markup Validation Service](https://validator.w3.org/) and [JSHint](https://jshint.com/).
@@ -64,13 +64,13 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 
 3. The site has been tested with the browsers Brave and Firefox (Desktop).
 
-4. The site has been tested on a Galaxy A8 (2018) with the browsers Brave (1.8.112) and Firefox Focus (8.3.0).
+4. The site has been tested on a Galaxy A8 (2018) with the browsers Brave (1.23.71).
 
 5. Navigation bar:
 	1. Desktop version, try to click in any option to verify that the page scrolls to the right section.
 	2. Mobile version, verify that the navigation bar options gets collapsed when the size of the screen is reduced.
-	3. Mobile version, verify that the menu options had the same behaviour that in desktop mode (Not working).
-	4. Mobile version, verify that the menu open/close correctly when is push (Not working).
+	3. Mobile version, verify that the menu options had the same behaviour that in desktop mode.
+	4. Mobile version, verify that the menu open/close correctly when clicked.
 
 6. Contact form:
 	1. Test: Not filling one or more of the required shows an error message asking the user to fill the field.
@@ -80,7 +80,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 
 ### Bugs
 
-- The navigation bar is not functional when used with small screen sizes.
+- ~~The collapsed navigation bar menu is not functional when used with small screen sizes.~~
 - Images on the "What to do section" scales from the top left corner rather than the center of the image.
 - When the site is visualized on small screen devices the elements on the "What to do section" doesn't align correctly.
 
