@@ -8,6 +8,16 @@
 - Responsive navigation bar - Allow the user to jump directly between sections (not fully implemented yet).
 - Contact form - Allow the users interested to request more information filling the form.
 
+### Future Features
+- Modal window that would appear clicking on every column of the "What to do" section with extended information.
+
+## Typography and Color Scheme
+
+1. Typography:
+    1. Fira Sans, [Google fonts, Fira Sans](https://fonts.google.com/specimen/Fira+Sans?selection.family=Roboto:400,700)
+    2. Permanent Marker, [Google fonts, Permanent Marker](https://fonts.google.com/specimen/Permanent+Marker?selection.family=Roboto:400,700)
+    3. Varela Round, [Google fonts, Varela Round](https://fonts.google.com/specimen/Varela+Round?selection.family=Roboto:400,700)
+
 ## Wireframes
 
 The wireframes for the project can be found [here](https://github.com/ED-IP/Milestone-2-Project/blob/master/docs/Wireframe_milestone_2.png)
