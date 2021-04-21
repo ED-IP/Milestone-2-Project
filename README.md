@@ -73,7 +73,7 @@
 
 To deploy the project I have used GitHub Pages. The version in use is the master branch.
 
-The address for the deployed project is:
+The address for the deployed project is: https://ed-ip.github.io/Milestone-2-Project/
 
 
 ## Credits
