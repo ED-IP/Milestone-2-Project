@@ -31,12 +31,13 @@
 - **[Google Fonts](https://fonts.google.com/)**
 	- The page use several fonts for text from **Google Fonts** service.
 
-## To do
+## To do / Incomplete features
 
  - Change styles for the Navigation bar and footer
- - Try different colors for the Pages
- - Make the contact form modal and refresh when one is sent
+ - Try different colors for the pages, contact form
+ - Make the contact form modal and that it refresh when one is sent
  - Replace the "Lorem" text with the definitive one
+ - Center the button to close the Privacy page
 
 ## Testing
 
@@ -63,7 +64,7 @@
 
 ### Bugs
 
-- The navigation is not functional when used with small screen sizes.
+- The navigation bar is not functional when used with small screen sizes.
 - Images on the "What to do section" scales from the top left corner rather than the center of  the image.
 - When the site is visualized on small screen devices the elements on the "What to do section" doesn't align correctly.
 
