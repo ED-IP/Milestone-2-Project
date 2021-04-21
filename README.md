@@ -78,6 +78,9 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 	3. Test: Trying to submit with an incorrect email address shows an error message asking the user to fill the field with the right content.
     4. Test: Send a message to check that the integration with emailjs is functional.
 
+7. Lighthose reports
+    Light house report reveals that improvements could be made for the mobile version of the website (Score 63)
+
 ### Bugs
 
 - ~~The collapsed navigation bar menu is not functional when used with small screen sizes.~~
