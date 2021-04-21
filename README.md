@@ -7,7 +7,7 @@
 ## Features
 
 ### Existing Features
-- Responsive navigation bar - Allow the user to jump directly between sections.
+- Responsive navigation bar - Allow the user to jump directly between sections (not fully implemented yet).
 - Contact form - Allow the users interested to request more information filling the form.
 
 ## Technologies Used
@@ -28,10 +28,16 @@
 	- **Font Awesome** is used to provide font icons in the shape of social networks.
 
 - **[jQuery](https://jquery.com/)**
-	- The page use several fonts for text from **Google Fonts** service.
+	- **jQuery** is used to add some visual interactive elements that react to the mouse cursor.
 	
 - **[Google Fonts](https://fonts.google.com/)**
 	- The page use several fonts for text from **Google Fonts** service.
+
+## To do
+
+ - Change styles for the Navigation bar and footer
+ - Try different colors for the Pages
+ - Make the contact form modal and refresh when one is sent
 
 
 ## Testing
@@ -56,17 +62,13 @@
 	2. Test: Not ticking the acknowledge for the privacy policy shows an error message.
 	3. Test: Trying to submit with an incorrect email address shows an error message asking the user to fill the field with the right content.
     4. Test: Send a message to check that the integration with emailjs is functional.
-	
-7. Social networks links:
-	1. Click in every of the three links to test the social networks open in a new browser tab.
-
 
 
 ### Bugs
 
 - The navigation is not functional when used with small screen sizes.
 - Images on the "What to do section" scales from the top left corner rather than the center of  the image.
-- 
+- When the site is visualized on small screen devices the elements on the "What to do section" doesn't align correctly.
 
 
 ## Deployment
@@ -74,7 +76,6 @@
 To deploy the project I have used GitHub Pages. The version in use is the master branch.
 
 The address for the deployed project is:
-
 
 
 ## Credits
