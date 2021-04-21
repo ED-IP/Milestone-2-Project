@@ -8,6 +8,10 @@
 - Responsive navigation bar - Allow the user to jump directly between sections (not fully implemented yet).
 - Contact form - Allow the users interested to request more information filling the form.
 
+## Wireframes
+
+The wireframes for the project can be found [here](https://github.com/ED-IP/Milestone-2-Project/blob/master/docs/Wireframe_milestone_2.png)
+
 ## Technologies Used
 
 - **[HTML]**
