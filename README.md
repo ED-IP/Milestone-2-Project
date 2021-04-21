@@ -1,8 +1,6 @@
 # Toronto Tourism Office (Description)
-
  
 ## UX
-
 
 ## Features
 
@@ -38,7 +36,7 @@
  - Change styles for the Navigation bar and footer
  - Try different colors for the Pages
  - Make the contact form modal and refresh when one is sent
-
+ - Replace the "Lorem" text with the definitive one
 
 ## Testing
 
@@ -62,7 +60,6 @@
 	2. Test: Not ticking the acknowledge for the privacy policy shows an error message.
 	3. Test: Trying to submit with an incorrect email address shows an error message asking the user to fill the field with the right content.
     4. Test: Send a message to check that the integration with emailjs is functional.
-
 
 ### Bugs
 
