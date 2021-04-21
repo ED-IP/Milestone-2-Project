@@ -89,23 +89,23 @@ h2{
 }
 
 .img-col-1{
-    background-image: url(../static/images/boats.jpg);
+    background-image: url(/static/images/boats.jpg);
 }
 
 .img-col-2{
-    background-image: url(../static/images/food.jpg);
+    background-image: url(/static/images/food.jpg);
 }
 
 .img-col-3{
-    background-image: url(../static/images/people.jpg);
+    background-image: url(/static/images/people.jpg);
 }
 
 .img-col-4{
-    background-image: url(../static/images/Train.jpg);
+    background-image: url(/static/images/Train.jpg);
 }
 
 .img-col-5{
-    background-image: url(../static/images/coffe.jpg);
+    background-image: url(/static/images/coffe.jpg);
 }
 
 /*------------contact section ---------*/
