@@ -17,10 +17,11 @@ nav {
 /*----------- Headers section ----------*/
 
 .main_header{
-    font-size: 50px;
+    margin: auto;
+    font-size: 40px;
     font-family: 'Permanent Marker', cursive;
     color: rgb(255, 255, 255);
-    padding: 100px 0px 10px;
+    padding: 50% 0px 10px;
 }
 
 .headers-center{

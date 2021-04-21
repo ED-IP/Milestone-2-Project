@@ -1,45 +1,105 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Toronto Tourism Office (Description)
 
-Welcome ED-IP,
+ 
+## UX
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
-## Gitpod Reminders
+## Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### Existing Features
+- Responsive navigation bar - Allow the user to jump directly between sections.
+- Contact form - Allow the users interested to request more information filling the form.
 
-`python3 -m http.server`
+## Technologies Used
 
-A blue button should appear to click: _Make Public_,
+- **[HTML]**
+	- **HTML** is used to create the structure of the web-page and to add content.
+	
+- **[CSS]**
+	- **CSS** is used to provide styles for the web-page.
 
-Another blue button should appear to click: _Open Browser_.
+- **[JS]**
+    - **JavaScript** used to make some of the element act when the mouse is over them.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- **[Bootstrap](https://getbootstrap.com/)**
+    - The project uses **Bootstrap** to implement a responsive navigation bar, help with the layout of some elements and provide classes for styles.
 
-A blue button should appear to click: _Make Public_,
+- **[Font Awesome](https://fontawesome.com/)**
+	- **Font Awesome** is used to provide font icons in the shape of social networks.
 
-Another blue button should appear to click: _Open Browser_.
+- **[jQuery](https://jquery.com/)**
+	- The page use several fonts for text from **Google Fonts** service.
+	
+- **[Google Fonts](https://fonts.google.com/)**
+	- The page use several fonts for text from **Google Fonts** service.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+## Testing
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/) and [Markup Validation Service](https://validator.w3.org/).
+   Any error found during testing has been addressed, following tests mark the code as okay.
+  
+2. During development the site has been checked in a regular basis with the developer tools of the browser to ensure that it worked as intended in desktop and mobile environments.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+3. The site has been tested with the browsers Brave and Firefox (Desktop).
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+4. The site has been tested on a Galaxy A8 (2018) with the browsers Brave (1.8.112) and Firefox Focus (8.3.0).
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+5. Navigation bar:
+	1. Desktop version, try to click in any option to verify that the page scrolls to the right section.
+	2. Mobile version, verify that the navigation bar options gets collapsed when the size of the screen is reduced.
+	3. Mobile version, verify that the menu options had the same behaviour that in desktop mode.
+	4. Mobile version, verify that the menu open/close correctly when is push.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+6. Contact form:
+	1. Test: Not filling one or more of the required shows an error message asking the user to fill the field.
+	2. Test: Not ticking the acknowledge for the privacy policy shows an error message.
+	3. Test: Trying to submit with an incorrect email address shows an error message asking the user to fill the field with the right content.
+    4. Test: Send a message to check that the integration with emailjs is functional.
+	
+7. Social networks links:
+	1. Click in every of the three links to test the social networks open in a new browser tab.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+### Bugs
 
----
+- The navigation is not functional when used with small screen sizes.
+- Images on the "What to do section" scales from the top left corner rather than the center of  the image.
+- 
 
-Happy coding!
+
+## Deployment
+
+To deploy the project I have used GitHub Pages. The version in use is the master branch.
+
+The address for the deployed project is:
+
+
+
+## Credits
+
+### Javascript
+
+ - The code used for opening and closing the Privacy Policy window was found in the following thread on [Stackoverflow](https://stackoverflow.com/a/24659694)
+
+### Content
+
+- The Term of Use and Privacy Policy text is from an archived version of [placeholder.com](https://web.archive.org/web/20200216231943/https://placeholder.com/about/privacy/#content)
+- All the rest of text is original, and no real personal information has been used.
+
+### Media
+
+- Image for the Introduction section by:
+	- [James Wheeler](https://www.pexels.com/photo/buildings-near-body-of-water-at-night-1519088/)
+	
+- Images for the "What to do" section:
+	- [vjgalaxy](https://www.pexels.com/photo/white-boat-on-sea-5054143/)
+    - [Gerald Jake Abangan](https://www.pexels.com/photo/plate-of-barbeques-on-dining-table-2689419/)
+    - [Cameron Casey](https://www.pexels.com/photo/people-on-sidewalk-selective-focal-photo-1687093/)
+    - [Chris Munnik](https://www.pexels.com/photo/blue-train-2536178/)
+    - [Gary Barnes](https://www.pexels.com/photo/man-with-strong-fragrant-coffee-in-hands-6248740/)
+
+	
+- Toronto flag images:
+	- [Wikipedia](https://en.wikipedia.org/wiki/Toronto#/media/File:Flag_of_Toronto,_Canada.svg)
