@@ -26,7 +26,7 @@ As guest of the website:
 
 ### Future Features
 - Modal window that would appear clicking on every column of the "What to do" section with extended information.
-- Notification for the Information form to indicate if the message was sent succesfuly or not.
+- Notification for the Information form to indicate if the message was sent succesfully or not.
 
 ## Typography and Color Scheme
 
@@ -48,7 +48,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 	- **CSS** is used to provide styles for the web-page.
 
 - **[JS]**
-    - **JavaScript** used to make some of the element act when the mouse is over them.
+    - **JavaScript** is used to make some of the element act dynamically when the mouse is over them.
 
 - **[Bootstrap](https://getbootstrap.com/)**
     - The project uses **Bootstrap** to implement a responsive navigation bar, help with the layout of some elements and provide classes for styles.
@@ -65,9 +65,9 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 ## To do / Incomplete features
 
  - Change styles for the Navigation bar and footer
- - Try different colors for the pages, contact form
+ - Try different color scheme for the pages, contact form, footer and Navbar
  - Make the contact form modal and that it refresh when one is sent
- - Replace the "Lorem" text with the definitive one
+ - ~~Replace the "Lorem" text with the definitive one~~
  - Center the button to close the Privacy page
   
 ## Testing
@@ -128,7 +128,7 @@ The address for the deployed project is: https://ed-ip.github.io/Milestone-2-Pro
 ### Content
 
 - The Term of Use and Privacy Policy text is from an archived version of [placeholder.com](https://web.archive.org/web/20200216231943/https://placeholder.com/about/privacy/#content)
-- Some information has been researched in the [Toronto dedicated article article on wikipedia](https://en.wikipedia.org/wiki/Toronto)
+- Some information has been researched with the [Toronto dedicated article article on wikipedia](https://en.wikipedia.org/wiki/Toronto)
 - All the rest of text is original, and no real personal information has been used.
 
 ### Media
