@@ -1,8 +1,8 @@
 # Toronto Tourism Office (Description)
 
-The project is intended to be an brief introduction for tourist or people with interes to visit the city of Toronto (Canada) by the (fictional) Toronto Tourism Office.
-It should provide a brief information of some of the common question about services and activities that canbe found in the city and its proximities.
-It also provides a contact form that the office could use to provide further and more in detail information to specific question by an user.
+The project is intended to be a brief introduction for tourist or people with interest to visit the city of Toronto (Canada) by the (fictional) Toronto Tourism Office.
+
+It should provide a brief information of some of the common question about services and activities that can be found in the city and its proximities. It also provides a contact form that the office could use to provide further and more in detail information to specific question by a guest.
  
 ## UX
 
@@ -14,9 +14,9 @@ As the owner of the website I want:
 As guest of the website:
 - I want to know what the city can offer for a holiday visit
 - I want some ideas to start planing a possible visit
-- I want some recomendations of places to google
+- I want some recommendations of places to visit
 - I want be able to ask for information to an official source
-- i want that the information displayes is presented clear and not in a confusing way
+- i want that the information displayed is presented clear and not in a confusing way
 
 ## Features
 
