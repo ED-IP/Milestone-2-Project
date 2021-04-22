@@ -1,6 +1,18 @@
 # Toronto Tourism Office (Description)
+
+The project is intended to be an brief introduction for tourist to the city of Toronto (Canada) by the (fictional) Toronto Tourism Office.
+It should provide a brief information of some of the common question about services and activities that canbe found in the city and its proximities.
+It also provides a contact form that the office could use to provide further and more in detail information to specific question by an user.
  
 ## UX
+
+As the owner of the website I want:
+- To provide a general overview of the city tourism offer to possible visitours
+- To provide some general ideas about services available in the city
+- The ability to the visitours to contact with the office for a more personaliced and in detail answer to their question
+
+As guest of the website:
+
 
 ## Features
 
@@ -112,6 +124,7 @@ The address for the deployed project is: https://ed-ip.github.io/Milestone-2-Pro
 ### Content
 
 - The Term of Use and Privacy Policy text is from an archived version of [placeholder.com](https://web.archive.org/web/20200216231943/https://placeholder.com/about/privacy/#content)
+- Some information has been researched in the [Toronto dedicated article article on wikipedia](https://en.wikipedia.org/wiki/Toronto)
 - All the rest of text is original, and no real personal information has been used.
 
 ### Media
