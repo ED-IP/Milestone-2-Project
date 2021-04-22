@@ -12,7 +12,11 @@ As the owner of the website I want:
 - The ability to guests to contact with the office for a more personalised and in detail answer to their question
 
 As guest of the website:
-
+- I want to know what the city can offer for a holiday visit
+- I want some ideas to start planing a possible visit
+- I want some recomendations of places to google
+- I want be able to ask for information to an official source
+- i want that the information displayes is presented clear and not in a confusing way
 
 ## Features
 
@@ -65,8 +69,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
  - Make the contact form modal and that it refresh when one is sent
  - Replace the "Lorem" text with the definitive one
  - Center the button to close the Privacy page
- - The Request information form doesn't scale correctly on small screen sizes
- 
+  
 ## Testing
 
 1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Markup Validation Service](https://validator.w3.org/) and [JSHint](https://jshint.com/).
@@ -98,6 +101,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
 - ~~The collapsed navigation bar menu is not functional when used with small screen sizes.~~
 - Images on the "What to do section" scales from the top left corner rather than the center of the image.
 - When the site is visualized on small screen devices the elements on the "What to do section" doesn't align correctly.
+- The Request information form doesn't scale correctly on small screen sizes
 
 
 ## Deployment
