@@ -69,7 +69,7 @@ The wireframes for the project can be found [here](https://github.com/ED-IP/Mile
  - Make the contact form modal and that it refresh when one is sent
  - ~~Replace the "Lorem" text with the definitive one~~
  - Center the button to close the Privacy page
-  
+   
 ## Testing
 
 1. The HTML and CSS code were tested with [CSS Validation Service](https://jigsaw.w3.org/css-validator/), [Markup Validation Service](https://validator.w3.org/) and [JSHint](https://jshint.com/).
