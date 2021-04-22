@@ -26,7 +26,7 @@ As guest of the website:
 
 ### Future Features
 - Modal window that would appear clicking on every column of the "What to do" section with extended information.
-- Notification for the Information form to indicate if the message was sent succesfully or not.
+- Notification for the Information form to indicate if the message was sent succesfully or if there is any problem.
 
 ## Typography and Color Scheme
 
